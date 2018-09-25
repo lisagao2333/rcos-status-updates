@@ -1,9 +1,6 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+>I install the environment on my Mac since I was planning to do IOS apps. Then I change my mind that I want to do ETAs. And also I feel my MAC book air may not to run the XCode smoothly. So I switch my laptop to my windows thinkpad. I am right now working on install the environment on the windows laptop. Also, I have considered ow exactly that I want to work on ETAs. I want to make the eta times show on the map for all the upcoming shuttles.
 
 ## This Week's Plan
 
