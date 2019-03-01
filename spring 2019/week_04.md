@@ -12,13 +12,25 @@ the difference. I upload my images to google drive then paste the link to my wee
 file looks un-organized. So this year when I want to add some images again I want to seek some ways that make the images 
 right on the file, instead of just links. So I watch a youtube video to learn and try to write it down, Explain it in a 
 concise way.
-- Write the documentations on how to insert images in md file. 
-- Place proper images in my previous files that help understanding. 
+- Write a distance_explanation.md file documentation with images inserted, for explaining the algorithm that I use to 
+find the total distance 
+of each route, and find the distance between the current location and the next stop for a single shuttle. Then I can use 
+the real time distance information and the real time relative velocity to find the estimated time of arrival for each 
+shuttle for the nearest stop. The code was written in go lang the last semester. This file is with the distance.go file 
+in the same folder.
+- Write a relative_velocity_explanation.md file documentation with images inserted, to explain the algorithm I used to
+calculate the relative velocity, the definition of relative velocity, and the comparision between relative velocity and 
+the real time velocity. The code was written this semester in python. This file is with the relative_velocity.py file 
+in the same folder.
 - Start to write the calculation file one ETA stops in python. 
 
 ## This Week's Plan
 
-> For this week, I will enjoy the spring break. When I get back I will work on the ETA for each shuttle stop.
+> For this week, I will 
+- Enjoy the spring break. 
+- Write the documentations on how to insert images in md file. Though easy, I think will be very helpful for writing 
+documentations, if possible in the spring break.
+- Continue to work on the ETA for each shuttle stop, if possible in the spring break.
 
 
 ## Anything Blocking?
