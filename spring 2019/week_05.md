@@ -35,6 +35,8 @@ So I just copy and paste all the text on the web and made a json file.
 probably not work. I need to find a new way to do it, rather than manually renew the file. Probably change the renewing 
 time, not every 5 seconds but more. I will test the loading time and make a proper time period. But right now, I will use 
 5 seconds. We can do improvement when I finish write the whole thing.
+- For reading huge amount of data from json file, I find pycharm may not be good at this, so I decide to use jupyter to 
+write the code. That is just a small thing. And I recommend jupyter to people who are dealing with huge amount of data.
 
 
 
